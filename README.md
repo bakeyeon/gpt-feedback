@@ -31,4 +31,7 @@ And because someone had to write it down.
 | [001](entry-001.md) | Korean STT UX Feedback & Improvement Suggestions | 2025-04-12 |
 | [002](entry-002.md) | Korean STT UX Feedback & Improvement Suggestions(2) | 2025-04-12 |
 | [003](entry-003.md) | UX Observation: Misaligned Feedback Timing in Code Execution Flow | 2025-04-12 |
+| [004](entry-004.md) | Meta-UX: Invisible Feedback Loops and Trust Friction in LLM Systems | 2025-04-12 |
+
+
 <!-- reviews-end -->
