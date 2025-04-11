@@ -29,4 +29,5 @@ And because someone had to write it down.
 | Entry | Title | Date |
 |-------|-------|------|
 | [001](entry-001.md) | Korean STT UX Feedback & Improvement Suggestions | 2025-04-12 |
+| [UX Observation: Misaligned Feedback Timing in Code Execution Flow](entry-003.md) | 2025-04-12 |
 <!-- reviews-end -->
