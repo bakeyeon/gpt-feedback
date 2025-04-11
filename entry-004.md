@@ -54,4 +54,3 @@ Rather, it's a suggestion to improve transparency, **so users can feel that thei
 
 > **Invisible processes cause visible distrust.**  
 > Sometimes, just knowing that someone is listening is enough.
-"""
