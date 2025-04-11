@@ -10,7 +10,7 @@ Focus areas include:
 
 📁 Public Reports:  
 [bit.ly/gpt-repo](https://bit.ly/gpt-repo)  
-📁 currently working on private Repo / Full Logs: Available on request after 30 apr.
+📁 Currently working on private repo / full logs: Available on request after 30 apr.
 
 ⚠️ Disclaimer:  
 These are **not official OpenAI documents** — they reflect **my personal observations as a QA-linguist and advanced user.**
