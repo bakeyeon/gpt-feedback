@@ -1,4 +1,4 @@
-# 002. UX Observation: Misaligned Feedback Timing in Code Execution Flow
+# 003. UX Observation: Misaligned Feedback Timing in Code Execution Flow
 
 **Date:** 2025-04-12
 
