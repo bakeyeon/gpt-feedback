@@ -54,3 +54,19 @@ Rather, it's a suggestion to improve transparency, **so users can feel that thei
 
 > **Invisible processes cause visible distrust.**  
 > Sometimes, just knowing that someone is listening is enough.
+
+---
+
+[UPDATE] - Proposal for MVP Feedback Program
+
+In addition to the points raised regarding feedback transparency and user trust, I would like to formally propose the introduction of an MVP Feedback Program for users who actively contribute detailed feedback and improvement suggestions.
+
+MVP Feedback Program could:
+
+    Acknowledge and reward highly engaged users.
+
+    Create direct feedback channels for detailed user-driven system improvements.
+
+    Provide early access, visibility, and public recognition for MVPs.
+
+This could help OpenAI create a stronger user base and refine the system even more effectively, while recognizing the time and effort put in by users to enhance the platform.
