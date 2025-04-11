@@ -22,3 +22,9 @@ Because user voices matter — especially multilingual ones.
 Because language is more than just accuracy — it's experience.  
 And because someone had to write it down.
 
+
+## 📂 Selected Reports
+
+| Entry | Title | Date |
+|-------|-------|------|
+| [001](entry-001.md) | Korean STT UX Feedback & Improvement Suggestions | 2025-04-12 |
