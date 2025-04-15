@@ -23,7 +23,7 @@ Because language is more than just accuracy — it's experience.
 And because someone had to write it down.
 
 
-## 📂 Selected Reports
+## 📂 Reports
 
 <!-- reviews-start -->
 | Entry | Title | Date |
