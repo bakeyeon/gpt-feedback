@@ -22,6 +22,16 @@ Because user voices matter — especially multilingual ones.
 Because language is more than just accuracy — it's experience.  
 And because someone had to write it down.
 
+> “While others were experimenting, I was executing.”
+> I wasn’t just a test subject — I contributed directly to the environment of the experiment itself.
+
+This portfolio contains real-time interactions and strategic feedback provided to a leading LLM system (ChatGPT), which were later reflected in live model behavior and dialogue tone adjustments.  
+My language, structure, and user experience critiques were not only heard — they were visibly adopted.
+
+This is not just usage.  
+It’s contribution.
+
+
 
 ## 📂 Reports
 
