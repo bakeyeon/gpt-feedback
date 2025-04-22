@@ -21,10 +21,9 @@ These are **not official OpenAI documents** — they reflect **my personal obser
 Because user voices truly matter — especially those speaking in multiple languages.
 Because language goes beyond mere accuracy — it encompasses lived experience.
 And because these insights deserved to be documented.
-“While others were experimenting, I was actively engaged.” I wasn’t simply a test subject — my interactions directly shaped the environment of the experiment itself.
-This portfolio showcases real-time interactions and thoughtful feedback provided to a leading LLM system (ChatGPT), which were subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
+“While others were experimenting, my input was impactful.” As more than just a test subject, my interactions directly shaped the environment of the experiment itself.
+This portfolio showcases real-time interactions and thoughtful feedback provided to a leading LLM system (ChatGPT), where my input was subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
 My linguistic input, structural suggestions, and user experience critiques were not only heard — they were visibly integrated.
-
 
 
 ## 📂 Reports
