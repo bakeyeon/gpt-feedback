@@ -18,18 +18,12 @@ These are **not official OpenAI documents** — they reflect **my personal obser
 ---
 
 ### Why this archive?
-Because user voices matter — especially multilingual ones.  
-Because language is more than just accuracy — it's experience.  
-And because someone had to write it down.
-
-> “While others were experimenting, I was executing.”
-> I wasn’t just a test subject — I contributed directly to the environment of the experiment itself.
-
-This portfolio contains real-time interactions and strategic feedback provided to a leading LLM system (ChatGPT), which were later reflected in live model behavior and dialogue tone adjustments.  
-My language, structure, and user experience critiques were not only heard — they were visibly adopted.
-
-This is not just usage.  
-It’s contribution.
+Because user voices truly matter — especially those speaking in multiple languages.
+Because language goes beyond mere accuracy — it encompasses lived experience.
+And because these insights deserved to be documented.
+“While others were experimenting, I was actively contributing.” I wasn’t simply a test subject — I directly shaped the environment of the experiment itself.
+This portfolio showcases real-time interactions and thoughtful feedback provided to a leading LLM system (ChatGPT), which were subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
+My linguistic input, structural suggestions, and user experience critiques were not only heard — they were visibly integrated.
 
 
 
