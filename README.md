@@ -30,8 +30,8 @@ My linguistic input, structural suggestions, and user experience critiques were 
 ## 📂 Reports
 
 <!-- reviews-start -->
-| Entry | Title | Date |
-|-------|-------|------|
+| Entry | Title | 
+|-------|-------|
 | [001](entry-001.md) | Korean STT UX Feedback & Improvement Suggestions | 
 | [002](entry-002.md) | Korean STT UX Feedback & Improvement Suggestions(2) | 
 | [003](entry-003.md) | UX Observation: Misaligned Feedback Timing in Code Execution Flow |
