@@ -14,6 +14,14 @@ This report outlines qualitative feedback and UX observations collected through 
 - **Issue**: When interacting with different models (e.g., GPT-4, Mini), users aren't informed of their individual strengths or limitations. This results in redundant trial-and-error or misplaced expectations (e.g., assigning logic-based tasks to a creative-focused model).
 - **Suggested Fix**: Upon initiating interaction, offer a 1-line summary of model strengths or “specialization tags” (e.g., *Visual-heavy, Snappy Response, Code-Ready*). Allow optional skill queries like: *"What are you best at?"*
 
+- **cf.** 
+| Model | Use cases |
+|------|--------|
+| **GPT-4o** | Strategy building, thought organization, high-level brainstorming |
+| **GPT-o3** | Fact checking / rebuttal testing / finding contradictions |
+| **GPT-4o mini** | Producing Images / quick chat |
+
+
 ### **2.2. Missing Feedback Layer for Instruction Tuning**
 - **Issue**: Some models lack the “meta-awareness” of layered instructions or nested prompts. Users attempting multi-step or stylized conversations (e.g., “give me a breakdown, then make a joke, then list action items”) often receive flattened or partial responses.
 - **Suggested Fix**: Introduce an optional “feedback-mode” toggle where models briefly reflect user intent before replying. Acknowledge tone & goal (“Got it — humor + action list — working on it…”).
