@@ -36,6 +36,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [006](entry-006.md) | Title-Only Recognition Systems to Encourage Quality Feedback |
 | [007](entry-007.md) | Empowering User Trust Through Transparent Data Control |
 | [008](entry-008.md) | Repositioning the Ethics Team as a Strategic Growth Driver in Social Venture Structures |
+| [009](entry-009.md) | UX Improvement Report – ChatGPT Multimodal Interface |
 
 
 
