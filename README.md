@@ -16,7 +16,8 @@ These are **not official documents** — they reflect **my personal observations
 ---
 
 ### Why this archive?
-Because user voices truly matter — especially those speaking in multiple languages.
+First of all, the feedback I give is my intellectual property.
+Additionally, user voices truly matter — especially those speaking in multiple languages.
 Because language goes beyond mere accuracy — it encompasses lived experience.
 And because these insights deserved to be documented.
 “While others were experimenting, my input was impactful.” As more than just a test subject, my interactions directly shaped the environment of the experiment itself.
