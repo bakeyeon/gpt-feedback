@@ -9,10 +9,6 @@ Focus areas include:
 - Multilingual behavior and UI/UX friction
 - Suggest new user-participatory event ideas
 
-📁 Public Reports:  
-[bit.ly/gpt-repo](https://bit.ly/gpt-repo)  
-📁 Currently working on private repo / full logs: Available on request after 30 apr.
-
 ⚠️ Disclaimer:  
 These are **not official documents** — they reflect **my personal observations as a QA-linguist and advanced user.**
 
@@ -39,6 +35,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [005](entry-005.md) | Strategic Initiative for GDPR Compliance and Premier Novel Abuse Talent Acquisition |
 | [006](entry-006.md) | Title-Only Recognition Systems to Encourage Quality Feedback |
 | [007](entry-007.md) | Empowering User Trust Through Transparent Data Control |
+| [008](entry-008.md) | Repositioning the Ethics Team as a Strategic Growth Driver in Social Venture Structures |
 
 
 
