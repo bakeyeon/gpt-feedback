@@ -14,7 +14,8 @@ This report outlines qualitative feedback and UX observations collected through 
 - **Issue**: When interacting with different models (e.g., GPT-4, Mini), users aren't informed of their individual strengths or limitations. This results in redundant trial-and-error or misplaced expectations (e.g., assigning logic-based tasks to a creative-focused model).
 - **Suggested Fix**: Upon initiating interaction, offer a 1-line summary of model strengths or “specialization tags” (e.g., *Visual-heavy, Snappy Response, Code-Ready*). Allow optional skill queries like: *"What are you best at?"*
 
-- **cf.** 
+- **cf.**
+  
 | Model | Use cases |
 |------|--------|
 | **GPT-4o** | Strategy building, thought organization, high-level brainstorming |
