@@ -59,3 +59,22 @@ This report was generated via real-time, unscripted user interaction with GPT-ba
 | Feedback Mode | Absent | Introduce reflect-and-confirm |
 | Emotional Responsiveness | Partial | Add tone mirroring and emotion score |
 | Task Delegation Hinting | Missing | Skill-based model query |
+
+## Example - with 4o mini
+1. **[Onboarding / Prompt Guidance]**  
+   - **Observation**: Users are not informed of each model’s strengths and limitations at the beginning of interaction.  
+   - **Suggestion**: Introduce a short onboarding message where each model briefly introduces its capabilities (e.g., “Hi! I’m good at generating images.”)
+
+2. **[Task Suitability Awareness]**  
+   - **Observation**: Mini struggles with multi-layered or abstract instructions, leading to repeated user trial-and-error.  
+   - **Suggestion**: Limit the scope of available prompts to Mini’s core strengths, or guide users to rephrase tasks when complexity exceeds capacity.
+
+3. **[Error Handling & Clarity]**  
+   - **Observation**: When Mini can’t complete a task, it often gives vague or non-committal responses.  
+   - **Suggestion**: Implement fallback messages like “I can’t help with that, but here’s something similar I can do” to reduce user frustration.
+
+4. **[Emotional Adaptability / Conversational Style]**  
+   - **Observation**: Compared to GPT-4, Mini lacks tone modulation and feels overly neutral or formal, breaking immersion in casual conversations.  
+   - **Suggestion**: Allow Mini to mirror the user’s tone more naturally, or offer a toggleable “Friendly Mode” to loosen formality.
+  
+
