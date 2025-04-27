@@ -12,6 +12,7 @@ Focus areas include:
 
 ⚠️ Disclaimer:  
 These are **not official documents** — they reflect **my personal observations as an advanced user.**
+I have no interest in the companies that submitted these feedbacks, I am just a paying user. I did not sign an NDA.
 
 ---
 
