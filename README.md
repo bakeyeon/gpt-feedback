@@ -1,6 +1,6 @@
 # AI Chatbot Feedback Archive (Unofficial)
 
-> Multilingual | STT | Prompt Behavior | QA-driven Observations | Product-minded linguist
+> Multilingual | STT | Prompt Behavior | QA-driven Observations | Product-minded Linguist Reports
 
 This repo collects selected user-centered reflections, bug reports, and UX notes based on my independent interaction with ChatGPT (mostly Android & Desktop, 2025).  
 Focus areas include:
