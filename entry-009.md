@@ -1,4 +1,4 @@
-# **UX Improvement Report – ChatGPT Multimodal Interface (User Feedback-Based)**  
+# **UX Improvement Report – ChatGPT Multimodal Interface**  
 **Use Context**: Casual user interaction, prompt engineering, idea generation, long-form conversation, AI UX testing
 
 ---
