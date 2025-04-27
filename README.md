@@ -10,7 +10,7 @@ Focus areas include:
 - Suggest new user-participatory event ideas
 
 ⚠️ Disclaimer:  
-These are **not official documents** — they reflect **my personal observations as a QA-linguist and advanced user.**
+These are **not official documents** — they reflect **my personal observations as an advanced user.**
 
 ---
 
@@ -19,7 +19,7 @@ Because user voices truly matter — especially those speaking in multiple langu
 Because language goes beyond mere accuracy — it encompasses lived experience.
 And because these insights deserved to be documented.
 “While others were experimenting, my input was impactful.” As more than just a test subject, my interactions directly shaped the environment of the experiment itself.
-This portfolio showcases real-time interactions and thoughtful feedback provided to a leading LLM system (ChatGPT), where my input was subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
+This portfolio showcases real-time interactions and thoughtful feedback provided to leading LLM systems, where my input was subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
 My linguistic input, structural suggestions, and user experience critiques were not only heard — they were visibly integrated.
 
 
