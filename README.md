@@ -2,7 +2,7 @@
 
 > Multilingual | STT | Prompt Behavior | QA-driven Observations | Product-minded Linguist Reports
 
-This repo collects selected user-centered reflections, bug reports, and UX notes based on my independent interaction with ChatGPT (mostly Android & Desktop, 2025).  
+This repo collects selected user-centered reflections, bug reports, and UX notes based on my independent interaction with AI Chatbot Platforms (mostly Android & Desktop, 2025).  
 Focus areas include:
 - STT issues in Korean (loss, mismatch, no edit mode, etc.)
 - Prompt ambiguity and context handling
