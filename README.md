@@ -35,7 +35,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [002](entry-002.md) | Korean STT UX Feedback & Improvement Suggestions(2) | 
 | [003](entry-003.md) | UX Observation: Misaligned Feedback Timing in Code Execution Flow |
 | [004](entry-004.md) | Meta-UX: Invisible Feedback Loops and Trust Friction in LLM Systems | 
-| [004](entry-005.md) | Strategic Initiative for GDPR Compliance and Premier Novel Abuse Talent Acquisition |
+| [005](entry-005.md) | Strategic Initiative for GDPR Compliance and Premier Novel Abuse Talent Acquisition |
 
 
 <!-- reviews-end -->
