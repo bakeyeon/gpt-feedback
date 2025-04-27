@@ -14,13 +14,13 @@ This report outlines qualitative feedback and UX observations collected through 
 - **Issue**: When interacting with different models (e.g., GPT-4, Mini), users aren't informed of their individual strengths or limitations. This results in redundant trial-and-error or misplaced expectations (e.g., assigning logic-based tasks to a creative-focused model).
 - **Suggested Fix**: Upon initiating interaction, offer a 1-line summary of model strengths or “specialization tags” (e.g., *Visual-heavy, Snappy Response, Code-Ready*). Allow optional skill queries like: *"What are you best at?"*
 
-- **cf.**
-  
-| Model | Use cases |
-|------|--------|
-| **GPT-4o** | Strategy building, thought organization, high-level brainstorming |
-| **GPT-o3** | Fact checking / rebuttal testing / finding contradictions |
-| **GPT-4o mini** | Producing Images / quick chat |
+
+| Model | Best At | Limitations | Ideal For |
+|-------|---------|-------------|-----------|
+| **GPT-4o** | Fluent conversations, deep reasoning, task chaining | Slower than mini, heavier compute | Writing, research, brainstorming |
+| **GPT-4o mini** | Fast, image interaction, casual generation | Slightly weaker reasoning, lighter memory | Visual prototyping, casual Q&A, idea sketching |
+| **GPT-o3** | Precise reasoning, balanced responses | No image capability, slightly outdated | Critical thinking, code analysis, debate-style replies |
+
 
 
 ### **2.2. Missing Feedback Layer for Instruction Tuning**
@@ -85,5 +85,11 @@ This report was generated via real-time, unscripted user interaction with GPT-ba
 4. **[Emotional Adaptability / Conversational Style]**  
    - **Observation**: Compared to GPT-4, Mini lacks tone modulation and feels overly neutral or formal, breaking immersion in casual conversations.  
    - **Suggestion**: Allow Mini to mirror the user’s tone more naturally, or offer a toggleable “Friendly Mode” to loosen formality.
+
+
+
+
+
+
   
 
