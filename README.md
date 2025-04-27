@@ -1,19 +1,20 @@
-# ChatGPT UX Feedback Archive (Unofficial)
+# AI Chatbot UX Feedback Archive (Unofficial)
 
 > Multilingual | STT | Prompt Behavior | QA-driven Observations
 
-This repo collects selected user-centered reflections, bug reports, and UX notes based on my independent interaction with ChatGPT (mostly Android & Desktop, 2024–2025).  
+This repo collects selected user-centered reflections, bug reports, and UX notes based on my independent interaction with ChatGPT (mostly Android & Desktop, 2025).  
 Focus areas include:
 - STT issues in Korean (loss, mismatch, no edit mode, etc.)
 - Prompt ambiguity and context handling
 - Multilingual behavior and UI/UX friction
+- Suggest new user-participatory event ideas
 
 📁 Public Reports:  
 [bit.ly/gpt-repo](https://bit.ly/gpt-repo)  
 📁 Currently working on private repo / full logs: Available on request after 30 apr.
 
 ⚠️ Disclaimer:  
-These are **not official OpenAI documents** — they reflect **my personal observations as a QA-linguist and advanced user.**
+These are **not official documents** — they reflect **my personal observations as a QA-linguist and advanced user.**
 
 ---
 
