@@ -8,6 +8,7 @@ Focus areas include:
 - Prompt ambiguity and context handling
 - Multilingual behavior and UI/UX friction
 - Suggest new user-participatory event ideas
+- Proposing a new revenue model
 
 ⚠️ Disclaimer:  
 These are **not official documents** — they reflect **my personal observations as an advanced user.**
