@@ -16,7 +16,7 @@ These are **not official documents** — they reflect **my personal observations
 ---
 
 ### Why this archive?
-First of all, the feedback I give is my intellectual property.
+**First of all, the feedback I give is my intellectual property.**
 Additionally, user voices truly matter — especially those speaking in multiple languages.
 Because language goes beyond mere accuracy — it encompasses lived experience.
 And because these insights deserved to be documented.
