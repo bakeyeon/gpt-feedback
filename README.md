@@ -43,6 +43,8 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [008](entry-008.md) | Repositioning the Ethics Team as a Strategic Growth Driver in Social Venture Structures |
 | [009](entry-009.md) | UX Improvement Report – ChatGPT Multimodal Interface |
 | [010](entry-010.md) | AI-Powered HR Automation for Streamlined Team Operations |
+| [011](entry-011.md) | Case Study: Sensory Brain vs. General LLM Model |
+
 
 
 
