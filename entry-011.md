@@ -1,5 +1,5 @@
 # Case Study: Sensory Brain vs. General LLM Model
-Overview: This report analyzes a conversation between the user (hereafter referred to as "I") and a third-party chatbot. The goal is to compare my unique thinking style ('sensory brain') with the operational principles of general LLM models and to derive improvement suggestions applicable to future model development.
+Overview: This report analyzes a conversation between the me and a major AI chatbot. The goal is to compare my unique thinking style ('sensory brain') with the operational principles of general LLM models and to derive improvement suggestions applicable to future model development.
 
 ## 1. Comparison of Thought Methodologies: From a 'Fluid Blob' to a 'Speakable State'
    
