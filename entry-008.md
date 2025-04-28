@@ -17,6 +17,7 @@ The Ethics Team is often siloed, under-resourced, and perceived as "support" rat
 2.  **Embed in Budget Decisions:** Develop metrics or language that ties ethical diligence directly to billing/risk logic and proactively advise experimental cost approvals.
 3.  **Narrative Alignment with Brand & Leadership:** Deliver messaging that reflects actual practice, highlights gaps, and offer tools for "ethics-integrated storytelling" in external communications.
 4.  **Grow the Ethics-Communication Layer:** Train representatives in internal influence, persuasive writing, and cross-departmental framing, treating communication as a core function.
+5.  **Actively challenge funding projects that support various ethical activities**: For example, in Korea, you can receive social enterprise support funds from the government. This is because social venture activities are recognized as taking on one axis of realizing 'welfare' that should be realized at the government level.
 
 ---
 
