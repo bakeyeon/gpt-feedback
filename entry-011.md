@@ -15,9 +15,11 @@ I perceive thoughts as pre-linguistic 'fluid blobs,' and the process of expressi
 ## 2. Improvement Suggestions: Enhancing 'Contextual Sensation' and 'Structuring' Abilities
 Two notable core elements of my thinking style are 'contextual sensation' and the ability to 'structure' meaning-blobs. These are significant aspects currently lacking in LLMs and offer the following implications for future model development:
 
-Integration of Contextual Sensation: LLMs need to learn to consider various factors comprehensively, such as situation, emotion, and social context, beyond simply understanding the meaning of text. This can evolve by integrating sensory experiences indirectly into the model through the learning of multimodal data (images, audio, video, etc.).
+### Integration of Contextual Sensation: 
+LLMs need to learn to consider various factors comprehensively, such as situation, emotion, and social context, beyond simply understanding the meaning of text. This can evolve by integrating sensory experiences indirectly into the model through the learning of multimodal data (images, audio, video, etc.).
 Learning Meaning Structuring: Modeling how I extract and structure sensations and information within the 'fluid blob' into language is crucial. This goes beyond simply generating text and enables the understanding of hierarchical structures of meaning, relationships, and implied meanings, leading to richer and more profound text generation.
-Deepening Pragmatic Understanding: Enhancing the ability to understand not only the surface meaning of language but also the intent, implications, and nuances in actual conversational situations is necessary. This can be implemented by explicitly modeling pragmatic features (speech intent, changes in expression based on the listener, etc.) during the learning of dialogue data.
+### Deepening Pragmatic Understanding: 
+Enhancing the ability to understand not only the surface meaning of language but also the intent, implications, and nuances in actual conversational situations is necessary. This can be implemented by explicitly modeling pragmatic features (speech intent, changes in expression based on the listener, etc.) during the learning of dialogue data.
 
 ## 3. Conclusion: Exploring New Possibilities for Human-AI Interaction by Integrating Insights from the 'Sensory Brain' into LLM Development
 My 'sensory brain' presents a unique and insightful perspective on the relationship between language and thought. In particular, the analogy of pre-linguistic thought as a 'fluid blob' and the explanation of the language formation process as a context-dependent meaning-attribution process reveal important aspects of human thought that existing language models have overlooked.
