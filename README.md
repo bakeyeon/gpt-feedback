@@ -25,6 +25,8 @@ And because these insights deserved to be documented.
 This portfolio showcases real-time interactions and thoughtful feedback provided to leading LLM systems, where my input was subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
 My linguistic input, structural suggestions, and user experience critiques were not only heard — they were visibly integrated.
 
+### This is a very small part of my portfolio. If you would like a formal portfolio, please contact me separately: https://www.linkedin.com/in/bakeyeon/
+
 
 ## 📂 Reports
 
