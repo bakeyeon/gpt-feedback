@@ -12,8 +12,8 @@ Focus areas include:
 
 ⚠️ Disclaimer:  
 These are **not official documents** — they reflect **my personal observations as an advanced user.**
-I am not affiliated with the companies that submitted this feedback; I am simply a paying user.
-My feedback is unbiased, as I am not an interested party in these companies.
+> I am not affiliated with the companies that submitted this feedback; I am simply a paying user.
+> My feedback is unbiased, as I am not an interested party in these companies.
 
 ---
 
