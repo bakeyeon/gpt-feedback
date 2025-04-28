@@ -45,7 +45,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [009](entry-009.md) | UX Improvement Report – ChatGPT Multimodal Interface |
 | [010](entry-010.md) | AI-Powered HR Automation for Streamlined Team Operations |
 | [011](entry-011.md) | Case Study: Sensory Brain vs. General LLM Model |
-| [012](entry-012.md) | Report: Identifying Issues, Suggested Improvements, and Collaboration with Branding Team |
+| [012](entry-012.md) | Report: Identifying RLHF Issues, Suggested Improvements, and Collaboration with Branding Team |
 
 
 
