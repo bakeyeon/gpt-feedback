@@ -18,11 +18,13 @@ I am not affiliated with the companies that submitted this feedback; I am simply
 ---
 
 ### Why this archive?
-**First of all, the feedback I give is my intellectual property.**
+#### **First of all, the feedback I give is my intellectual property.**
 Additionally, user voices truly matter — especially those speaking in multiple languages.
 Because language goes beyond mere accuracy — it encompasses lived experience.
 And because these insights deserved to be documented.
-“While others were experimenting, my input was impactful.” As more than just a test subject, my interactions directly shaped the environment of the experiment itself.
+
+#### **“While others were experimenting, my input was impactful.”** 
+As more than just a test subject, my interactions directly shaped the environment of the experiment itself.
 This portfolio showcases real-time interactions and thoughtful feedback provided to leading LLM systems, where my input was subsequently reflected in the model's live behavior and adjustments to its dialogue tone.
 My linguistic input, structural suggestions, and user experience critiques were not only heard — they were visibly integrated.
 
