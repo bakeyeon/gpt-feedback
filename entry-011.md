@@ -5,7 +5,7 @@ Overview: This report analyzes a conversation between the me and a major AI chat
    
 Feature	| My Thinking (Sensory Brain)	| General LLM Model
 |------|------|------|
-Nature of Thought	| Formless mass of pre-linguistic sensations, images, and structures (slime)	Vector space of tokenized text data
+Nature of Thought	| Formless mass of pre-linguistic sensations, images, and structures (slime)	| Vector space of tokenized text data
 Language Formation Process	| A process of kneading the blob, where appropriate language adheres based on situation, context, and emotion (active selection and refinement)	| A process of predicting and generating the next token based on probability in a compressed vector space (pattern recognition and statistical relationship learning)
 Meaning Comprehension	| Deep understanding based on contextual sensation and embodiment	| Meaning inference based on statistical correlations learned from large-scale data (contextual understanding is possible, but lacks embodied sensation)
 Knowledge Processing	| A method of breaking down meaning-blobs and structuring the contained sensations, context, and emotions	| Storing text-based knowledge in a vector space and retrieving and utilizing it based on similarity
