@@ -4,7 +4,7 @@
 
 Currently, when generating reports (e.g., feedback logs, UX documents, or analysis memos), the "Date" field is manually editable or left as a placeholder. This creates friction for users who intend to quickly export or submit these documents, particularly in time-sensitive or iterative workflows.
 
----
+--
 
 ### 2. Identified UX Pain Point
 
@@ -13,7 +13,7 @@ Currently, when generating reports (e.g., feedback logs, UX documents, or analys
 - **Unnecessary Delay:** Small but cumulative time lost over multiple documents or reports.
 - **Manual Username Entry:** Users must also repeatedly input their names or aliases, which could be easily automated based on stored profile data.
 
----
+--
 
 ### 3. Proposed Improvement
 
@@ -42,6 +42,14 @@ document.getElementById("report-author").innerText = userSettings.name || "Anony
 </script>
 ```
 
+### (c) Follow-up Question (Example)
+
+→ Need to draft a quick message to pass on to Fin?
+
+Asking questions in this way will help reduce the burden on users to provide feedback, allowing OpenAI to collect more quality feedback.
+
+--
+
 ### 4. Expected Benefits
 
 - ⏱️ Faster document turnaround
@@ -51,7 +59,7 @@ document.getElementById("report-author").innerText = userSettings.name || "Anony
 - 🧠 Less cognitive load for repeat users
 - ✍️ Seamless integration into auto-generated documentation and workflows
 
----
+--
 
 ### 5. Recommendation
 
