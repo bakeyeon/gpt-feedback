@@ -49,8 +49,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [011](entry-011.md) | Case Study: Sensory Brain vs. General LLM Model |
 | [012](entry-012.md) | Report: Identifying RLHF Issues, Suggested Improvements, and Collaboration with Branding Team |
 | [013](entry-013.md) | UX Enhancement Proposal: Auto-Fill Current Date in Report Outputs |
-
-
+| [014](entry-014.md) | UX Feedback Report – Session Error Context Misalignment |
 
 
 
