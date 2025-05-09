@@ -51,6 +51,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [013](entry-013.md) | UX Enhancement Proposal: Auto-Fill Current Date in Report Outputs |
 | [014](entry-014.md) | UX Feedback Report – Session Error Context Misalignment |
 | [015](entry-015.md) | Case Study: DeepL - Security and Data Efficiency as Core Differentiators in the Translation Technology Market |
+| [016](entry-016.md) | Case Study: Forecasting the Competitive Landscape of the AI Market |
 
 
 
