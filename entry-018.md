@@ -69,7 +69,7 @@ To identify and map user perception gaps across language regions (including Kore
 
 ---
 **Wordcloud Map for Possible 3 Tech Giants**
-[wcl](!images/wcl.png)
+![wcl](images/wcl.png)
 
 ---
 
