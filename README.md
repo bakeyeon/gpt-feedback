@@ -1,4 +1,4 @@
-# AI Chatbot Feedback Archive (Unofficial)
+# AI Insights/Feedback Archive (Unofficial)
 
 > Multilingual | STT | Prompt Behavior | QA-driven Observations | Product-minded Linguist Reports
 
@@ -50,6 +50,8 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [012](entry-012.md) | Report: Identifying RLHF Issues, Suggested Improvements, and Collaboration with Branding Team |
 | [013](entry-013.md) | UX Enhancement Proposal: Auto-Fill Current Date in Report Outputs |
 | [014](entry-014.md) | UX Feedback Report – Session Error Context Misalignment |
+| [015](entry-015.md) | Case Study: DeepL - Security and Data Efficiency as Core Differentiators in the Translation Technology Market |
+
 
 
 
