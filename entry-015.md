@@ -33,7 +33,7 @@ DeepL's commitment to security and efficient data utilization provides several k
 
 **5. Case Studies/Examples:**
 
-- [DeepL's Policy on data protection](https://www.deepl.com/en/pro-privacy_info?utm_term=&utm_campaign=DE%7CPMAX%7CC%7CEnglish&utm_source=google&utm_medium=paid&hsa_acc=1083354268&hsa_cam=21575885684&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21579556303&gbraid=0AAAAABbqoWBj8hNdVSQvz_qSNBI3xputT&gclid=Cj0KCQjwrPHABhCIARIsAFW2XBPEkBiQxxHM1KYUSQr7k--doiCBJcp_K64vlyWxlhSQdG1irTo0G2gaAtMkEALw_wcB)
+- [DeepL's policy on data protection](https://www.deepl.com/en/pro-privacy_info?utm_term=&utm_campaign=DE%7CPMAX%7CC%7CEnglish&utm_source=google&utm_medium=paid&hsa_acc=1083354268&hsa_cam=21575885684&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21579556303&gbraid=0AAAAABbqoWBj8hNdVSQvz_qSNBI3xputT&gclid=Cj0KCQjwrPHABhCIARIsAFW2XBPEkBiQxxHM1KYUSQr7k--doiCBJcp_K64vlyWxlhSQdG1irTo0G2gaAtMkEALw_wcB)
 - [DeepL debuts enterprise AI to enhance ROI & data security](https://securitybrief.co.nz/story/deepl-debuts-enterprise-ai-to-enhance-roi-data-security)
 
 **6. Conclusion:**
