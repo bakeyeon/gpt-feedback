@@ -1,18 +1,18 @@
 # Suggestion for UX Improvement: "Set ChatGPT as Homepage" Feature
 
 ## Proposal:
-• Implement a simple UX feature allowing users to set ChatGPT as their homepage with the click of a button.
-• This could be a straightforward popup or option within the settings, offering users the ability to make ChatGPT their default landing page when they open their browsers.
+- Implement a simple UX feature allowing users to set ChatGPT as their homepage with the click of a button.
+- This could be a straightforward popup or option within the settings, offering users the ability to make ChatGPT their default landing page when they open their browsers.
 
 ## Why This Could Work:
-• Increase Engagement: By making ChatGPT the first page users see upon starting their browser, it encourages more frequent interaction. Users may become accustomed to using the platform as a starting point for their daily internet activity.
-• Market Share Opportunity: Much like how Google established itself as a homepage search engine, ChatGPT could seize an opportunity to dominate as the new, smart starting point for users. A seamless, functional experience could make ChatGPT the go-to tool for many.
-• Innovation in User Experience: Offering this option could position ChatGPT as not just a chatbot but a revolutionary starting point for users’ online activities. This innovative approach could lead to a shift in how people perceive search engines and smart assistants.
+- Increase Engagement: By making ChatGPT the first page users see upon starting their browser, it encourages more frequent interaction. Users may become accustomed to using the platform as a starting point for their daily internet activity.
+- Market Share Opportunity: Much like how Google established itself as a homepage search engine, ChatGPT could seize an opportunity to dominate as the new, smart starting point for users. A seamless, functional experience could make ChatGPT the go-to tool for many.
+- Innovation in User Experience: Offering this option could position ChatGPT as not just a chatbot but a revolutionary starting point for users’ online activities. This innovative approach could lead to a shift in how people perceive search engines and smart assistants.
 
 ## Potential Benefits:
-• Increased user retention and interaction with the platform.
-• A shift in browsing habits that could give ChatGPT an edge over traditional search engines.
-• Positive branding and innovation recognition in the market.
+- Increased user retention and interaction with the platform.
+- A shift in browsing habits that could give ChatGPT an edge over traditional search engines.
+- Positive branding and innovation recognition in the market.
 I believe this could be a fun and creative way to engage users and position ChatGPT for even greater success in the future.
 
 # Feature Suggestion – “Set ChatGPT as Your Homepage” + Smart Start Page UX
