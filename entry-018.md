@@ -73,15 +73,6 @@ To identify and map user perception gaps across language regions (including Kore
 
 ---
 
-**Perception Gap Analysis:**
-
-- Gemini shows the highest **image inconsistency** between user reviews and news articles, often praised in media but questioned by users for reliability.
-- ChatGPT maintains a relatively **stable brand image** across sources and languages but faces **bias-related criticism** globally.
-- LLaMA is strong among developers and open-source communities but suffers from **accessibility and UX concerns**.
-- Copilot is seen as **functionally useful but uninspiring**, especially outside business contexts.
-
----
-
 **Strategic Implications:**
 
 - **Localized Brand Narratives**: Tailoring emotional tone and positioning by region is critical (e.g., emphasize safety in DE, creativity in FR, accessibility in ES).
