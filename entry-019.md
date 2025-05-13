@@ -62,7 +62,7 @@ The primary function of **MGL** will be to analyze the sentence pairs and **extr
 
 ### 5.1 **Linguistic Collaboration**
 
-- We will collaborate closely with **linguistic experts** from **HHU Düsseldorf** and a **native language linguist** to ensure the linguistic accuracy and effectiveness of the translation rules. These experts will help in:
+- You can collaborate closely with **linguistic experts** and a **native language linguist** to ensure the linguistic accuracy and effectiveness of the translation rules. These experts will help in:
     - Defining and validating the grammatical rules needed for MGL.
     - Ensuring that the linguistic features of African languages are captured appropriately.
     
