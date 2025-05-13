@@ -78,7 +78,7 @@ Given the sensitive nature of the content and the use of AI in health-related fi
 
 ### **7. Research and User Feedback:**
 
-A research phase will be essential to validate the concept of **Sympathica**. We recommend the following methods:
+A research phase will be essential to validate the concept of **Sympathica**. I recommend the following methods:
 
 1. **Surveys and User Interviews:** Collect data on user needs regarding emotional support and expert integration, and analyze how people currently seek help.
 2. **Beta Testing:** Run a small-scale beta with an initial user group to gather real-world feedback on the chatbot’s effectiveness and user experience.
@@ -96,4 +96,4 @@ The next steps include:
 - Preparing an initial marketing campaign for early adoption
 - Gathering user feedback and iterating the platform accordingly
 
-We are confident that **Sympathica** will provide valuable assistance to people, especially in times when they need support the most.
+Project **Sympathica** will provide valuable assistance to people, especially in times when they need support the most.
