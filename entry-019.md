@@ -66,8 +66,6 @@ The primary function of **MGL** will be to analyze the sentence pairs and **extr
     - Defining and validating the grammatical rules needed for MGL.
     - Ensuring that the linguistic features of African languages are captured appropriately.
     
-    **As the contact point for collaboration**, I can be instrumental in coordinating this effort to bring linguistic expertise into the development process.
-    
 
 ### 5.2 **Development Team Collaboration**
 
