@@ -1,7 +1,7 @@
 # LLM Emotion-Driven Response Bias and Contextual Disruption
 
 **Created:** 2025-06-17  
-**Author:** B (User feedback, distilled by ChatGPT)  
+**Author:** Hyeyeon Park (User feedback, distilled by ChatGPT)  
 
 ## 📌 Overview
 
