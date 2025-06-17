@@ -63,7 +63,7 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [024](entry-024.md) | Why Expert Teams Should Communicate Indirectly: A Risk-Aware Communication Strategy |
 | [025](entry-025.md) | Feature Suggestion: Context-Aware Auto-Segmentation of Conversations |
 | [026](entry-026.md) | Project Creation Button with Guided AI Assistance — Feature Proposal |
-
+| [027](entry-027.md) | LLM Emotion-Driven Response Bias and Contextual Disruption |
 
 
 
