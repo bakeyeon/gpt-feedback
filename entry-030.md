@@ -14,12 +14,12 @@ This proposal outlines a new pricing model for AI services, moving away from a t
 ### Example Pricing Tiers
 | Plan Name |	Target User	| Key Features & Focus | Proposed Price (Monthly) |
 |:---|:---|:---|:---:|
-| Google AI Pro (Current)	| General purpose, everyday users	A balanced mix of all features for general use.	| ~$19.99 | 
-| Google AI Creator Pro	| **Creative Generation-Focused.** Ample access to high-quality image and video generation (e.g., 6 video generations/day), with a moderate allowance for text and code generation. | ~$29.99 | 
-| Google AI Analyst Pro	| **Reasoning-Focused.** Extensive access to long-context and code generation (e.g., Gemini 1.5 Pro) for data analysis and complex problem-solving. Limited access to image/video features. | ~$29.99 | 
-| Google AI Creator Ultra	| **Maximum Creative Generation.** Unlimited or highly accelerated access to premium image/video models (e.g., Veo 3 Premium). Priority access to new creative features. | ~$249.99 | 
-| Google AI Analyst Ultra	| **Maximum Reasoning Power.** Unlimited or highly accelerated access to the largest reasoning models (e.g., Gemini 1.5 Ultra) for complex data tasks and large-scale computation. | ~$249.99 | 
-| Google AI Ultimate	| **Comprehensive Access.** Unlimited access to all AI model types (Creative and Reasoning). Best of both worlds for users who need it all. | ~$349.99 | 
+| Google AI Pro (Current)	| General users | General purpose, everyday users	A balanced mix of all features for general use.	| ~$19.99 | 
+| Google AI Creator Pro	| Visual artists | **Creative Generation-Focused.** Ample access to high-quality image and video generation (e.g., 6 video generations/day), with a moderate allowance for text and code generation. | ~$29.99 | 
+| Google AI Analyst Pro	|  Researchers | **Reasoning-Focused.** Extensive access to long-context and code generation (e.g., Gemini 1.5 Pro) for data analysis and complex problem-solving. Limited access to image/video features. | ~$29.99 | 
+| Google AI Creator Ultra	| Visual artists | **Maximum Creative Generation.** Unlimited or highly accelerated access to premium image/video models (e.g., Veo 3 Premium). Priority access to new creative features. | ~$249.99 | 
+| Google AI Analyst Ultra	| Researchers | **Maximum Reasoning Power.** Unlimited or highly accelerated access to the largest reasoning models (e.g., Gemini 1.5 Ultra) for complex data tasks and large-scale computation. | ~$249.99 | 
+| Google AI Ultimate	| Power users | **Comprehensive Access.** Unlimited access to all AI model types (Creative and Reasoning). Best of both worlds for users who need it all. | ~$349.99 | 
 
 ## Benefits of the Proposed Model
 - For the User: Customers gain clear value by paying only for the specialized features they need, resulting in a more cost-effective subscription. The new 'Ultimate' tier provides a solution for professionals who need access to all capabilities.
