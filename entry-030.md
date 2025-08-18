@@ -27,3 +27,25 @@ This proposal outlines a new pricing model for AI services, moving away from a t
 
 ## Conclusion
 By shifting to a function-specific pricing model, our AI services can provide a more tailored, valuable, and cost-efficient experience for a diverse user base. This strategic move aligns with the maturation of the AI industry and positions our platform as a leader in user-centric innovation.
+
+# Appendix: Go-to-Market (GTM) Strategy
+## 1. 'Creator' Target Market (Google AI Creator Pro)
+
+**Strategy:** Value-Driven Content Marketing
+**Tactics:**
+- Prompt Writing Guide: Create content in 'card news' format, such as "5 Prompts for Making an Engaging Video," to guide users.
+- Community Virality: Distribute content to visual-centric social media channels like Instagram and Pinterest to encourage organic sharing and virality.
+- YouTube Tutorials: Produce practical tutorials like "How to Create YouTube Shorts in 5 Minutes" to let potential customers experience the service firsthand.
+
+## 2. 'Analyst' Target Market (Google AI Analyst Pro)
+**Strategy:** Expertise-Led Content Marketing
+**Tactics:**
+- White Papers/Case Studies: Publish professional-level content such as a white paper titled, "100x Faster Marketing Data Analysis with GenAI."
+- Online Seminars: Host webinars featuring data experts to demonstrate Gemini's reasoning model prowess in solving complex problems.
+- Academic Community Collaboration: Partner with data science communities and academic groups to host tech demos and build trust among professionals.
+
+## 3. 'Ultimate' Target Market (Google AI Ultimate)
+**Strategy:** Customized VIP Marketing
+**Tactics:**
+- Custom Onboarding: Assign dedicated managers to large studios and corporate clients to provide 1:1 personalized consulting.
+- Exclusive Demos: Offer an exclusive demo opportunity to a select group of key clients before launch to build anticipation.
