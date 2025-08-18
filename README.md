@@ -66,6 +66,8 @@ My linguistic input, structural suggestions, and user experience critiques were 
 | [027](entry-027.md) | LLM Emotion-Driven Response Bias and Contextual Disruption |
 | [028](entry-028.md) | A Proposal to Leapfrog Competitors by Diversifying Search Data Sources for a Glocalized Approach |
 | [029](entry-029.md) | UX Feedback Report – Same Answer Repetition Problem |
+| [030](entry-030.md) | Proposal: Functional Specialization in AI Service Pricing |
+
 
 
 
