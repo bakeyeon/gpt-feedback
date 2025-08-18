@@ -6,8 +6,9 @@
 --
 
 ## 2. User Perspective
-    For users who are always expecting new and creative answers, repeated responses can be perceived as chatbot errors or negative experiences with the brand due to the chatbot being perceived as unintelligent, which can damage brand trust.
-    While this may be a strategy to reduce immediate costs, it can potentially impact customer churn by lowering user satisfaction in the long run.
+- For users who are always expecting new and creative answers, repeated responses can be perceived as chatbot errors or negative experiences with the brand due to the chatbot being perceived as unintelligent, which can damage brand trust.
+- While this may be a strategy to reduce immediate costs, it can potentially impact customer churn by lowering user satisfaction in the long run.
+  
 --
 
 ## 3. Suggested UX Improvement
