@@ -12,8 +12,8 @@ This proposal outlines a new pricing model for AI services, moving away from a t
 - I propose a pricing model that segments users based on their primary use case, offering specialized tiers optimized for specific AI tasks. This creates more targeted and valuable offerings for our key customer segments.
 
 ### Example Pricing Tiers
-| Plan | Name |	Target User	| Key Features & Focus | Proposed Price (Monthly) |
-|---|---|------|-----|----------------------|--------------------------|
+| Plan Name |	Target User	| Key Features & Focus | Proposed Price (Monthly) |
+|:---|:---|:---|:---:|
 | Google AI Pro (Current)	| General purpose, everyday users	A balanced mix of all features for general use.	| ~$19.99 | 
 | Google AI Creator Pro	| **Creative Generation-Focused.** Ample access to high-quality image and video generation (e.g., 6 video generations/day), with a moderate allowance for text and code generation. | ~$29.99 | 
 | Google AI Analyst Pro	| **Reasoning-Focused.** Extensive access to long-context and code generation (e.g., Gemini 1.5 Pro) for data analysis and complex problem-solving. Limited access to image/video features. | ~$29.99 | 
