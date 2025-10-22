@@ -18,7 +18,7 @@ Focus: Model limitations, data strategy, core engineering architecture, and API 
 |-------|-------|
 | [001](entry-001.md) | Korean STT UX Feedback & Improvement Suggestions | 
 | [002](entry-002.md) | Korean STT UX Feedback & Improvement Suggestions(2) | 
-| [011](entry-011.md) | Case Study: Sensory Brain vs. General LLM Model |
+| [011](entry-011.md) | (I'll keep it private for a while. I'll make it public again after March.) |
 | [012](entry-012.md) | Report: Identifying RLHF Issues, Suggested Improvements, and Collaboration with Branding Team |
 | [027](entry-027.md) | LLM Emotion-Driven Response Bias and Contextual Disruption |
 | [019](entry-019.md) | Translation Tool Development Idea of an African Minority Language(Fe’Fe’) |
