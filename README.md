@@ -92,7 +92,7 @@ This section includes the complete list of reports, documented by entry number f
 | [008](entry-008.md) | Repositioning the Ethics Team as a Strategic Growth Driver in Social Venture Structures |
 | [009](entry-009.md) | UX Improvement Report – ChatGPT Multimodal Interface |
 | [010](entry-010.md) | AI-Powered HR Automation for Streamlined Team Operations |
-| [011](entry-011.md) | Case Study: Sensory Brain vs. General LLM Model |
+| [011](entry-011.md) | (private) |
 | [012](entry-012.md) | Report: Identifying RLHF Issues, Suggested Improvements, and Collaboration with Branding Team |
 | [013](entry-013.md) | UX Enhancement Proposal: Auto-Fill Current Date in Report Outputs |
 | [014](entry-014.md) | UX Feedback Report – Session Error Context Misalignment |
