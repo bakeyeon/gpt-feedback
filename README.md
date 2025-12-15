@@ -21,7 +21,7 @@ Focus: Model limitations, data strategy, core engineering architecture, and API 
 | [011](entry-011.md) | (I'll keep it private for a while. I'll make it public again after March.) |
 | [012](entry-012.md) | Report: Identifying RLHF Issues, Suggested Improvements, and Collaboration with Branding Team |
 | [027](entry-027.md) | LLM Emotion-Driven Response Bias and Contextual Disruption |
-| [019](entry-019.md) | Translation Tool Development Idea of an African Minority Language(Fe’Fe’) |
+| [019](entry-019.md) | Translation Tool Development Idea of an African Minority Language |
 | [029](entry-029.md) | UX Feedback Report – Same Answer Repetition Problem |
 | [031](entry-031.md) | Suggestion for Gemini Translation API: Add a Pre-check to Prevent Text Corruption from Same-Language Translation |
 <!-- reviews-end -->
