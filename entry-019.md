@@ -1,4 +1,4 @@
-# Translation Tool Development Idea of an African Minority Language(Fe’Fe’)
+# Translation Tool Development Idea of an African Minority Language
 
 ## Prototype Development of an African Minority Language Translation Tool: Utilizing Minimal Generalization Learner (MGL) and GPT API
 
