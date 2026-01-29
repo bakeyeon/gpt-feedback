@@ -147,3 +147,4 @@ I am not affiliated with the companies that submitted this feedback; I am simply
 > My feedback is unbiased, as I am not an interested party in these companies.
 
 ### This is a very small part of my portfolio. If you would like a formal business portfolio, please contact me separately: https://www.linkedin.com/in/bakeyeon/
+Are you interested in longer, more detailed industry analyses or expat daily life in Germany? Explore my thoughts here: https://medium.com/@kaiwritesornot
