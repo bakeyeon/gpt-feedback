@@ -18,11 +18,11 @@ Engineered "Invisible Feedback Loops" (Entry 004) and proposed transparent data 
 Developed glocalized search data diversification strategies to leapfrog competitors in non-English linguistic markets (Entry 028).
 
 #### Technical Foundation
-Leveraging a unique synthesis of Computer Science (TU Darmstadt), Strategic Management (KAIST), and Computational Linguistics (HHU Düsseldorf), I provide the "Product-Minded" rigor necessary for AGI development. My mission is to ensure that AI reflects true human cognition, nuance, and cross-cultural integrity.
+Leveraging a unique synthesis of Computer Science (TU Darmstadt), Strategic Management (KAIST), and Computational Linguistics, I provide the "Product-Minded" rigor necessary for AGI development. My mission is to ensure that AI reflects true human cognition, nuance, and cross-cultural integrity.
 
 #### Operational Standard
 I thrive as an Individual Contributor (IC) in high-autonomy research environments. I prioritize Deep Work infrastructure and strategic leadership, delivering maximum ROI through high-leverage auditing and architectural proposals.
-
+I am no longer in a stage where I need to build a portfolio. Please do not offer 'opportunities' in exchange for unpaid strategic consulting.
 
 > Core Competencies: Pragmatics | Comp. Linguistics | Performance Marketing | System Design | Cross-Cultural UX
 
