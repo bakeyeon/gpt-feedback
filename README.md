@@ -3,7 +3,7 @@
 Applied Computational Linguist | LLM Alignment & Systemic Rigor | Transforming Linguistic Insights into Scalable Model Improvements
 
 ### About me
-I don’t just observe AI; I audit its core logic to ensure High-Fidelity Alignment. My work bridges the gap between Formal Linguistics (Pragmatics) and System Design, focusing on resolving the most complex user trust and technical architecture challenges in leading LLM platforms.
+My work bridges the gap between Formal Linguistics (Pragmatics) and System Design, focusing on resolving the most complex user trust and technical architecture challenges in leading LLM platforms.
 
 #### Strategic Impact Archive (Featured Work) 
 I maintain an independent AI Insights/Feedback Archive (30+ Strategic Reports) where my structural critiques on STT UX, RLHF issues, and Gemini API stability have predicted and informed systemic adjustments.
@@ -16,20 +16,6 @@ Engineered "Invisible Feedback Loops" (Entry 004) and proposed transparent data 
 
 #### Global Market Foresight
 Developed glocalized search data diversification strategies to leapfrog competitors in non-English linguistic markets (Entry 028).
-
-#### Technical Foundation
-Leveraging a unique synthesis of Computer Science (TU Darmstadt), Strategic Management (KAIST), and Computational Linguistics, I provide the "Product-Minded" rigor necessary for AGI development. My mission is to ensure that AI reflects true human cognition, nuance, and cross-cultural integrity.
-
-#### Operational Standard
-I thrive as an Individual Contributor (IC) in high-autonomy research environments. I prioritize Deep Work infrastructure and strategic leadership, delivering maximum ROI through high-leverage auditing and architectural proposals.
-I am no longer in a stage where I need to build a portfolio. Please do not offer 'opportunities' in exchange for unpaid strategic consulting.
-
-> Core Competencies: Pragmatics | Comp. Linguistics | Performance Marketing | System Design | Cross-Cultural UX
-
-This archive collects user-centered reflections, bug reports, and strategic notes based on my independent interaction with leading LLM Platforms (2025).
-
-### “While others were experimenting, my input was impactful.”
-> This portfolio showcases how my linguistic input, structural suggestions, and user experience critiques were demonstrably integrated into the model's live behavior and systemic adjustments across various platforms. As a Product-Minded Linguist with a strong foundation in Pragmatics, Performance Marketing, and System Design, my focus is generating tangible value by resolving the most complex user trust and technical architecture challenges.
 
 ## 💡 Strategic Reports (By Core Competency)
 This section highlights my core product competencies across four critical domains.
